@@ -47,3 +47,5 @@ public/images/large/
 *.tiff
 *.svg
 *.ico
+!src/assets/
+!src/assets/**
