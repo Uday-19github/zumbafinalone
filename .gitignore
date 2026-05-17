@@ -37,7 +37,6 @@ dist-ssr
 *.3gp
 *.ogv
 public/videos/
-public/images/large/
 *.jpg
 *.jpeg
 *.png
@@ -47,5 +46,9 @@ public/images/large/
 *.tiff
 *.svg
 *.ico
+!public/logo.png
+!public/acting_stage.png
+!public/images/**
+public/images/large/
 !src/assets/
 !src/assets/**
